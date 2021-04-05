@@ -58,7 +58,7 @@ mongo-decimal@0.1.2
 mongo-dev-server@1.1.0
 mongo-id@1.0.7
 mongo-livedata@1.0.12
-montiapm:agent@2.40.1
+montiapm:agent@2.41.2
 npm-bcrypt@0.9.3
 npm-mongo@3.8.1
 ordered-dict@1.1.0
